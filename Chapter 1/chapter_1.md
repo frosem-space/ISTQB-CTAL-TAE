@@ -48,7 +48,7 @@ However, automation also has challenges:
 - **Skill requirements**: Often requires skilled automation engineers.
 - **Risk of rigidity**: Automated tests may break with minor UI or logic changes.
 - **Automation blindness**: Automation can only check what it’s explicitly coded to verify.
-- **Additional defects**: failed executions of automated tes cases can create new defects by changes in the SUT.
+- **Additional defects**: Failed executions of automated test cases creates new defects when the SUT changes requirements.
 - **Not universally applicable**: Some test types (e.g., usability or exploratory testing) require human judgment.
 
 Limitations to be aware of:
