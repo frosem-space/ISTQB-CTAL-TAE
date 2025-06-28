@@ -12,11 +12,11 @@
 | K4 | TAE-4.2.1 | Analyze deployment risks and plan mitigation strategies for test automation | 1 | 3 |
 | K2 | TAE-4.3.1 | Explain which factors support and affect test automation solution maintainability | 2 | 1 |
 
-**Total Questions for Chapter 4: 4**  
+**Total Questions: 4**  
 K2 = 2  
 K3 = 1  
 K4 = 1  
-Total Points: 7
+**Total Points: 7**
 
 ---
 

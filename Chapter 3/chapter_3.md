@@ -14,10 +14,10 @@
 | K3 | TAE-3.1.4 | Apply different approaches for automating test cases | 2 | 2 |
 | K3 | TAE-3.1.5 | Apply design principles and design patterns in test automation | 1 | 2 |
 
-**Total Questions for Chapter 3: 5**  
+**Total Questions: 6**  
 K2 = 2  
 K3 = 8  
-Total Points: 10  
+**Total Points: 10**  
 
 ---
 

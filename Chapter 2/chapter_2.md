@@ -13,10 +13,10 @@
 | K4 | TAE-2.2.1 | Analyze a system under test to determine the appropriate test automation solution | 1 | 3 |
 | K4| TAE-2.2.2 | Illustrate the technical findings of a tool evaluation | 1 | 3 |
 
-**Total Questions for Chapter 2: 5**  
+**Total Questions: 5**  
 K2 = 3  
 K4 = 2  
-Total Points: 9
+**Total Points: 9**
 
 ---
 

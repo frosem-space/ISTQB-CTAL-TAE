@@ -12,10 +12,10 @@
 | K2 | TAE-5.1.2 | Explain configuration management for testware | 2 | 1 |
 | K2 | TAE-5.1.3 | Explain test automation dependencies for an API infrastructure | 2 | 1 |
 
-**Total Questions for Chapter 5: 6**  
+**Total Questions: 6**  
 K2 = 4  
 K3 = 4  
-Total Points: 8
+**Total Points: 8**
 
 ---
 

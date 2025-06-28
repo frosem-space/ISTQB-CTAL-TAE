@@ -12,9 +12,9 @@
 | K2 | 1.2.1 | Explain how test automation is applied across different software development lifecycle models | 1 | 1 | 
 | K2 | 1.2.2 | Select suitable test automation tools for a given system under test | 1 | 1 |
 
-**Total Questions for Chapter 1: 3**  
-K2 = 3
-Total Points: 3
+**Total Questions: 3**  
+K2 = 3  
+**Total Points: 3**
 
 ---
 
